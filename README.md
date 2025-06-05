@@ -43,7 +43,7 @@ plt.show()
 ```
 
 ### Results
-![Visualization of Top Skills for Data roles](Images\Skills_Demand.png)
+![Visualization of Top Skills for Data roles](Images/Skills_Demand.png)
 
 ### Insights
 - Python is a versatile skill, highly demanded across all three roles, but most prominently for Data scientist (72%) and Data Engenierrs (65%).
@@ -119,7 +119,7 @@ plt.show()
 ```
 
 #### Results
-![Distribución de salarios en estados unidos](Images\Salary_Distribution.png)
+![Distribución de salarios en estados unidos](Images/Salary_Distribution.png)
 
 *Box plot visualizing the salary distributions for the top 6 data job titles.*
 
@@ -176,7 +176,7 @@ plt.show()
 ```
 
 #### Results
-![Top 10 habiliades mas pagadas y demandadas para Data Analyst en USA](Images\Most_Demanded_and_Popular_Skills.png)
+![Top 10 habiliades mas pagadas y demandadas para Data Analyst en USA](Images/Most_Demanded_and_Popular_Skills.png)
 
 *Two separate  bar graphs visualizing  the highest paid skills and most in-demand skills for Data analysts in the US.*
 
@@ -225,6 +225,6 @@ plt.show()
 ```
 
 #### Results
-![Optimal skills for data analysts](Images\Optimal_Skills.png)
+![Optimal skills for data analysts](Images/Optimal_Skills.png)
 
 *Scatter plot visualizing the optimal skills for Data Analysts.*
